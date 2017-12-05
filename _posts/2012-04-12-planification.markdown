@@ -1,11 +1,11 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Open ODG
+subtitle: Plateforme de télédéclaration
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+modal-id: 5
+date: 2014-07-14
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
