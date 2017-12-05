@@ -234,7 +234,21 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.navbar-brand {
+    margin-top: -17px;
+}
+
+.navbar-brand img {
+    height: 57px;
+}
+
 @media(min-width:768px) {
+
+    .navbar-brand {
+        padding:0 10px 0 10px;
+        margin-top: -8px;
+    }
+
     .navbar-default {
         padding: 25px 0;
         border: 0;
@@ -244,7 +258,7 @@ fieldset[disabled] .btn-xl.active {
         transition: padding .3s;
     }
 
-    .navbar-default img {
+    .navbar-brand img {
         height: 125px;
     }
 
@@ -264,12 +278,18 @@ fieldset[disabled] .btn-xl.active {
         background-color: #222;
     }
 
-    .navbar-default.navbar-shrink img {
+    .navbar-default.navbar-shrink .navbar-brand img {
         height: 78px;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+    }
+}
+
+@media (max-width:991px) and (min-width:768px) {
+    .navbar-brand img {
+        height: 78px;
     }
 }
 
@@ -660,7 +680,7 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
-aside.clients img {
+.clients img {
     margin: 10px auto;
 }
 
