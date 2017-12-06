@@ -13,20 +13,20 @@ people:
   pic: 1
   position: Associé (Gérant)
   social:
+    - title: github
+      url:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
+    - title: linkedin
       url: #
 
-- name: Jean-Baptiste
+- name: Jean-Baptiste LE METAYER
   pic: 2
   position: Associé (Gérant)
   social:
+    - title: github
+      url:
     - title: twitter
-      url: #
-    - title: facebook
       url: #
     - title: linkedin
       url: #
@@ -43,14 +43,14 @@ people:
       url: #
 
 - name: Tangui MORLIER
-  pic: 3
+  pic: 4
   position: Associé
   social:
+    - title: github
+      url:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
