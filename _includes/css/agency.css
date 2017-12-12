@@ -686,13 +686,14 @@ section h3.section-subheading {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    /*background-image: url('{{ site.baseurl }}/img/map-image.png');*/
     background-position: center;
     background-repeat: no-repeat;
+    color: #fff;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    /*color: #fff;*/
 }
 
 section#contact .form-group {
