@@ -47,11 +47,11 @@ people:
   position: Associé
   social:
     - title: github
-      url:
+      url: https://github.com/teymour
     - title: twitter
-      url: #
+      url: https://twitter.com/teymour
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/tanguimorlier/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
