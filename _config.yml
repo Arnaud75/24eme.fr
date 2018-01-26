@@ -14,22 +14,22 @@ people:
   position: Associé (Gérant)
   social:
     - title: github
-      url:
+      url: https://github.com/mathurinpetit
     - title: twitter
-      url: #
+      url: https://twitter.com/MathurinPetit
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/mathurin-petit-69007a51/
 
 - name: Jean-Baptiste LE METAYER
   pic: 2
   position: Associé (Gérant)
   social:
     - title: github
-      url:
+      url: https://github.com/jblemetayer
     - title: twitter
-      url: #
+      url: https://twitter.com/jblemetayer
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/jean-baptiste-le-metayer-ba4577103/
 
 - name: Vincent LAURENT
   pic: 3
