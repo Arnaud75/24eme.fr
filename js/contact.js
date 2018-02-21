@@ -1,6 +1,9 @@
 $(document).ready(function() {
-     tel = $('.fa-phone').next().text().split(' ').reverse().join(' ');
-     $('.fa-phone').next().text(tel);
-     $('.fa-phone').next().attr('href', 'callto:+33' + tel.substring(1).replace(/ /g,''));
-});
+     var tel = $('#tel').text().split(' ').reverse().join(' ');
+     $('#tel').text(tel);
+     $('#tel').attr('href', 'tel:+33' + tel.substring(1).replace(/ /g,''));
 
+     var email = $('#email').text().replace('[at]', '@');
+     $('#email').text(email);
+     $('#email').attr('href', 'mailto:' + email);
+});
