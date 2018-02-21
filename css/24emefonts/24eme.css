@@ -1,0 +1,46 @@
+/*
+  Icon Font: 24eme
+*/
+
+@font-face {
+  font-family: "24eme";
+  src: url("./24eme.eot");
+  src: url("./24eme.eot?#iefix") format("embedded-opentype"),
+       url("./24eme.woff2") format("woff2"),
+       url("./24eme.woff") format("woff"),
+       url("./24eme.ttf") format("truetype"),
+       url("./24eme.svg#24eme") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "24eme";
+    src: url("./24eme.svg#24eme") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-engrenages:before,
+.icon-formation:before,
+.icon-raisins:before {
+  display: inline-block;
+  font-family: "24eme";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-engrenages:before { content: "\f101"; }
+.icon-formation:before { content: "\f102"; }
+.icon-raisins:before { content: "\f103"; }
