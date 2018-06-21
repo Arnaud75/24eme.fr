@@ -1,6 +1,8 @@
 Site web du 24ème
 ====================
 
+Il est déployé sous ce nom de domaine: http://www.24eme.fr
+
 Son contenu est sous [Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/fr/) sauf mention contraire. 
 
 Les sources sont sous license AGPL v3
