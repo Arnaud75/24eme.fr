@@ -894,3 +894,19 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+.bloc-editable {
+    position: relative;
+}
+
+.lien-edition {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    opacity: 0.3;
+}
+
+.lien-edition-bottom {
+    bottom: 20px;
+    top: auto;
+}
