@@ -1,31 +1,11 @@
-Agency Jekyll theme
+Site web du 24ème
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Son contenu est sous [Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/fr/) sauf mention contraire. 
 
-# How to use
+Les sources sont sous license AGPL v3
 
-### Portfolio 
+Il est conçu et déployé à l'aide de [Jekyll](https://jekyllrb.com/) (sous license MIT)
 
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-### About
-
-Images are in '/img/about/'
-
-### Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-# More Details
-
-For more details, read [documentation](http://jekyllrb.com/)
+Le site utilise le thème [Agency bootstrap theme](https://github.com/BlackrockDigital/startbootstrap-agency)
+(sous license MIT)
