@@ -9,14 +9,14 @@ $(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top
+            scrollTop: $($anchor.attr('href').replace("/", "")).offset().top
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
 });
 
 // Highlight the top nav as scrolling occurs
-$('body').scrollspy({
+$('body#page-top').scrollspy({
     target: '.navbar-fixed-top',
     offset: 90
 })
