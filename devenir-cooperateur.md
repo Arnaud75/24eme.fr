@@ -2,7 +2,7 @@
 layout: defaultPage
 ---
 
-# Développeur/se web full-stack en CDI ou en contrat d'apprentissage
+## Développeur/se web full-stack
 
 Le 24ème recherche une développeuse ou un développeur web full-stack qui pourra s'intégrer dans son équipe de développement comme dans la vie de l'entreprise.
 
@@ -25,7 +25,7 @@ Une belle variété de logiciels métiers sont développés :
  - Gestion de planification et de tournées pour des techniciens sur mobile
  - Indexation et recherche documentaire
 
-## Technologies utilisées :
+### Technologies utilisées :
 
  - GIT
  - PHP / Symfony
@@ -37,19 +37,19 @@ Une belle variété de logiciels métiers sont développés :
  - HTML / CSS / JQuery
  - Python
 
-## Poste à pourvoir :
+### Poste à pourvoir :
 
  - Lieu : Paris dans le 18ème
  - Disponibilité : Dés maintenant
  - Type de contrat : CDI ou contrat d'apprentissage
  - Rémunération : Selon les souhaits du candidat
 
-## Comment postuler :
+### Comment postuler :
 
  - Par mail : [devenircooperateur@24eme.fr](mailto:devenircooperateur@24eme.fr)
  - Par github : en te rajoutant dans notre équipe via un pull-request :  [L'équipe](/#equipe)
 
-## A propos du 24ème :
+### A propos du 24ème :
 
 Le 24ème est une une Société coopérative fonctionnant sur le modèle de l'entreprise libérée spécialisée dans le développement de logiciels libres et le conseil en matière d'Open Data.
 

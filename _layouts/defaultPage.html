@@ -3,10 +3,23 @@
     {% include head.html %}
     <body>
         {% include nav.html %}
-            <div class="bg-light-gray" style="padding-top: 100px;">
-                <div class="container">
-                {{ content }}
+        <header>
+            <div class="container">
+                <a href="https://github.com/24eme/24eme.fr/blob/master/_includes/header.html" class="lien-edition lien-edition-bottom"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+                <div class="intro-text" style="padding-top: 200px; padding-bottom: 100px;">
+                    <div class="intro-heading">Devenir coopérateur</div>
                 </div>
             </div>
+        </header>
+
+        <section id="page" style="padding: 75px 0;">
+            <div class="container">
+            {{ content }}
+            </div>
+        </section>
+
+        {% include footer.html %}
+        {% include modals.html %}
+        {% include js.html %}
     </body>
 </html>
