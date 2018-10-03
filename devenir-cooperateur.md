@@ -29,7 +29,7 @@ Une belle variété de logiciels métiers sont développés :
 
  - GIT
  - PHP / Symfony
- - Base de données documentaire (CouchdbDB, MongoDB)
+ - Base de données documentaire (CouchDB, MongoDB)
  - Debian
  - Shell
  - Ansible
@@ -46,7 +46,7 @@ Une belle variété de logiciels métiers sont développés :
 
 ### Comment postuler :
 
- - Par mail : [devenircooperateur@24eme.fr](mailto:devenircooperateur@24eme.fr)
+ - Par mail : [devenircooperateur@24eme.fr](mailto:devenircooperateur@24eme.fr) / [devenircooperatrice@24eme.fr](mailto:devenircooperatrice@24eme.fr)
  - Par github : en te rajoutant dans notre équipe via un pull-request :  [L'équipe](/#equipe)
 
 ### A propos du 24ème :
