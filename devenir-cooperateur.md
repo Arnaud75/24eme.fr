@@ -51,7 +51,7 @@ Une belle variété de logiciels métiers sont développés :
 
 ### A propos du 24ème :
 
-Le 24ème est une Société coopérative fonctionnant sur le modèle de l'entreprise libérée spécialisée dans le développement de logiciels libres.
+Le 24ème est une Société coopérative fonctionnant sur le modèle de l'entreprise libérée spécialisée dans le développement de logiciels libres et le conseil en matière d'Open Source.
 
 La philosophie du 24ème :
 
