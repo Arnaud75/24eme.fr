@@ -55,7 +55,7 @@ Le 24ème est une Société coopérative fonctionnant sur le modèle de l'entrep
 
 La philosophie du 24ème :
 
- - Logiciel Libres : tous les logiciels développés sont publiés sous licence libre
+ - Logiciel Libre : tous les logiciels développés sont publiés sous licence libre
  - Horizontalité du management : pas de manager ni de chef de projet
  - Transparence : les chiffres, comptes et décisions sont accessibles à tous
  - Agilité : le dialogue avec les clients est privilégié et l'auto-organisation des équipes de développement la règle
