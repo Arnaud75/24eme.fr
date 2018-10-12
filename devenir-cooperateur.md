@@ -1,5 +1,6 @@
 ---
 layout: defaultPage
+titre: Devenir coopérateur
 ---
 
 ## Développeur/se web full-stack
