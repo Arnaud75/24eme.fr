@@ -2,20 +2,18 @@
 layout: defaultPage
 ---
 
-## Développeur/se web full-stack
+## Stage / Alternance developpement web
 
-Le 24ème recherche une développeuse ou un développeur web full-stack qui pourra s'intégrer dans son équipe de développement comme dans la vie de l'entreprise.
+Le 24ème recherche un-e stagiaire ou alternant-e web qui pourra apprendre au sein de son équipe de développement.
 
-Le/la futur-e salarié-e aura la liberté de s'impliquer dans les différentes missions réalisées au sein de l'entreprise :
+En fonction de ses intérêts, le ou la condidate pourra s'impliquer dans les différentes missions réalisées au sein de l'entreprise :
 
  - Développement d'applications métiers
  - Administration système de serveurs sous Linux
- - Formations techniques
- - Conseil et expertise technique
  - Relation direct avec le client
  - Définition des besoins avec le client
  - Chiffrages
- - Facturations et petites tâches administratives
+ - Tâches administratives
 
 Une belle variété de logiciels métiers sont développés :
 
@@ -41,13 +39,10 @@ Une belle variété de logiciels métiers sont développés :
 
  - Lieu : Paris dans le 18ème
  - Disponibilité : Dés maintenant
- - Type de contrat : CDI
- - Rémunération : Selon les souhaits du candidat
 
 ### Comment postuler :
 
  - Par mail : [devenircooperateur@24eme.fr](mailto:devenircooperateur@24eme.fr) / [devenircooperatrice@24eme.fr](mailto:devenircooperatrice@24eme.fr)
- - Par github : en te rajoutant dans notre équipe via un pull-request :  [L'équipe](/#equipe)
 
 ### A propos du 24ème :
 
